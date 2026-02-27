@@ -186,11 +186,6 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 4. Push to the branch: `git push origin feature/my-feature`
 5. Open a pull request
 
----
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
