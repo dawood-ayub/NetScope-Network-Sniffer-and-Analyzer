@@ -4,7 +4,6 @@
 ![PyQt5](https://img.shields.io/badge/GUI-PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![Scapy](https://img.shields.io/badge/Capture-Scapy-FF6B35?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 A fully-featured, dark-themed desktop network packet sniffer and traffic analyzer built with Python. Capture, inspect, filter, and analyze live network traffic — all in a native GUI with no browser required.
 
